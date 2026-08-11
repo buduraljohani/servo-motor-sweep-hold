@@ -33,7 +33,7 @@ This project programs **four servo motors** connected to an Arduino Uno to perfo
 
 ## 🖼️ Circuit Diagram
 
-![Circuit Diagram](PASTE-YOUR-IMAGE-FILENAME-HERE.png)
+![Circuit Diagram](circuit.png)
 
 *Arduino Uno R3 connected to 4 servo motors on digital PWM pins 3, 5, 6, and 9.*
 
