@@ -27,7 +27,7 @@ This project programs **four servo motors** connected to an Arduino Uno to perfo
   Your browser does not support the video tag. Click below to watch the simulation.
 </video>
 
-> 🔗 **[Watch the full simulation video](PASTE-YOUR-VIDEO-LINK-HERE)**
+> 🔗 **[Watch the full simulation video](demo_video.mp4)**
 
 ---
 
